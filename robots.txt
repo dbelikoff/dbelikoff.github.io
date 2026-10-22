@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dbelikoff.github.io/sitemap.xml
